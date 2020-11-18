@@ -12,15 +12,15 @@
     "clean": "rm -rf dist & rm -rf .*cache"
   },
   "dependencies": {
-    "codemirror": "^5.40.2", 
-    "gifshot": "^0.4.5",
-    "hyperapp": "^1.2.9"
+    "codemirror": "5.40.2", 
+    "gifshot": "0.4.5",
+    "hyperapp": "1.2.9"
   },
   "devDependencies": {
-    "autoprefixer": "^9.1.5",
-    "flt": "^0.6.0",
-    "parcel-bundler": "^1.10.2",
-    "postcss-modules": "^1.4.1"
+    "autoprefixer": "9.1.5",
+    "flt": "0.6.0",
+    "parcel-bundler": "1.10.2",
+    "postcss-modules": "1.4.1"
   },
   "browserslist": [
     "Chrome >= 49",
